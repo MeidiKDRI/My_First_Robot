@@ -1,3 +1,5 @@
+# Creation of a new class for New Generation Robot
+# THis new one is based on the first generation with more features.
 from robot import Robot
 
 class RobotNG(Robot) :
